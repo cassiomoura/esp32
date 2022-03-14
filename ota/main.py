@@ -1,1 +1,1 @@
-primt("deu bom do Git")
+print("deu bom do Git")
